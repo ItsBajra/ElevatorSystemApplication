@@ -1,0 +1,10 @@
+D:\Downloads\LiftServerSystem-master\LiftServerSystem-master\ElevatorControl\ElevatorControl\ElevatorControl\bin\Debug\ElevatorControl.exe.config
+D:\Downloads\LiftServerSystem-master\LiftServerSystem-master\ElevatorControl\ElevatorControl\ElevatorControl\bin\Debug\ElevatorControl.exe
+D:\Downloads\LiftServerSystem-master\LiftServerSystem-master\ElevatorControl\ElevatorControl\ElevatorControl\bin\Debug\ElevatorControl.pdb
+D:\Downloads\LiftServerSystem-master\LiftServerSystem-master\ElevatorControl\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.csproj.AssemblyReference.cache
+D:\Downloads\LiftServerSystem-master\LiftServerSystem-master\ElevatorControl\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.Form1.resources
+D:\Downloads\LiftServerSystem-master\LiftServerSystem-master\ElevatorControl\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.Properties.Resources.resources
+D:\Downloads\LiftServerSystem-master\LiftServerSystem-master\ElevatorControl\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.csproj.GenerateResource.cache
+D:\Downloads\LiftServerSystem-master\LiftServerSystem-master\ElevatorControl\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.csproj.CoreCompileInputs.cache
+D:\Downloads\LiftServerSystem-master\LiftServerSystem-master\ElevatorControl\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.exe
+D:\Downloads\LiftServerSystem-master\LiftServerSystem-master\ElevatorControl\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.pdb
