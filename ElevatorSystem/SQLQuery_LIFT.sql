@@ -1,0 +1,10 @@
+CREATE DATABASE lift;
+
+USE lift;
+
+CREATE TABLE Actions (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    Date DATE NOT NULL,
+    Time TIME NOT NULL,
+    Action NVARCHAR(255) NOT NULL
+);
