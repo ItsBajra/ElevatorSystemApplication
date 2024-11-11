@@ -1,5 +1,5 @@
 ﻿
-// Note: THE DATABASE code begins at line 314 if any changes is required...
+// NOTE: PLEASE REFER TO DB.cs for connection string
 
 using System;
 using System.ComponentModel;
